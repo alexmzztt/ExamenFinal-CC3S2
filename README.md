@@ -22,7 +22,7 @@ También se pueden utilizar scripts o herramientas para automatizar el proceso d
 
 Encontramos la imagen de CouchDB
 
-![docker.search.couchdb.jgp](https://github.com/alexmzztt/ExamenFinal-CC3S2/tree/main/assets/docker.search.couchdb.jgp)
+![docker.search.couchdb.jgp](https://github.com/alexmzztt/ExamenFinal-CC3S2/blob/main/assets/docker.search.couchdb.jpg)
 
 ![couchdb.jgp](https://github.com/alexmzztt/ExamenFinal-CC3S2/blob/main/assets/couchdb.jgp)
 
