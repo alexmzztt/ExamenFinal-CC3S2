@@ -24,6 +24,4 @@ Encontramos la imagen de CouchDB
 
 ![docker.search.couchdb.jgp](https://github.com/alexmzztt/ExamenFinal-CC3S2/blob/main/assets/docker.search.couchdb.jpg)
 
-![couchdb.jgp](https://github.com/alexmzztt/ExamenFinal-CC3S2/blob/main/assets/couchdb.jgp)
-
-![couchdb.image.jgp](https://github.com/alexmzztt/ExamenFinal-CC3S2/blob/main/assets/couchdb.image.jgp)
+![couchdb.image.jgp](https://github.com/alexmzztt/ExamenFinal-CC3S2/blob/main/assets/couchdb.image.jpg)
